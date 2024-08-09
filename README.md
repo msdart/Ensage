@@ -14,7 +14,7 @@ The Binance Trade Bot and Telegram Bot Installer is a versatile tool that allows
 updated
 Follow these steps to set up the Binance Trade Bot and Telegram Bot Installer on your local machine or server:
 
-1. # 1. Follow to the my telegram group to get new updates and fixes https://t.me/+nd2gZeuLtQsxMDFi
+1. # 1. Follow to the my telegram group to get new updates and fixes https://t.me/+PNoHqrZ5O0FlZmZi
 2. Configure your environment:
 Create a `.env file` in the project's root directory and define your environment variables. You can use the `.env.example` file as a template.
 
